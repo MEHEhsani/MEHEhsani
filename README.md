@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MEHEhsani
+- 👋 Hi, I’m Hamid Ehsani @MEHEhsani
 - 👀 I’m interested in observing the universe and Science is the best window to do that. DataScience gives me skills to discover the insights behind datasets.
 - 🌱 I’m currently learning DataScience and mentoring what I know about data.
 - 💞️ I’m looking to collaborate on DataScience projects.

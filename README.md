@@ -2,7 +2,7 @@
 - 👀 I’m fascinated by observing the universe, and I believe science is the best lens to do so. Data science empowers me to uncover insights hidden within datasets.
 - 🌱 Currently, I’m applying my knowledge in DataScience to solve real-world problems.
 - 💞️ I’m eager to collaborate on impactful data science projects.
-- 🌐 Explore my CV, portfolios and insights on [HoopoeNest.ir](https://HoopoeNest.ir).
+- 🌐 Explore my insights and portfolio on [HoopoeNest.ir](https://HoopoeNest.ir).
 
 - 📫 Feel free to reach out: researcher.ehsani@gmail.com
 
